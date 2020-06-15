@@ -1,0 +1,6 @@
+Area to improve
+- to modify (ContainerTop/ContainerBody/ContainerBottom)
+into a single component
+to detect sibling and act as top/body/bottom automatically
+- variant / variantColor should be combined
+and more friendly

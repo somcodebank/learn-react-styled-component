@@ -1,0 +1,21 @@
+:root {
+  --color: #cd1ddd;
+}
+
+body {
+  margin: 2rem;
+  font-family: monospace;
+}
+.global {
+  color: #987654;
+  text-transform: lowercase;
+  text-shadow: aqua;
+}
+.paragraph-lower {
+  text-transform: lowercase;
+  color: var(--color);
+}
+.paragraph-cap {
+  text-transform: capitalize;
+  color: var(--color);
+}
