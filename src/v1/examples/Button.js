@@ -10,7 +10,6 @@ const summary = `/// basic styled component
 /// - taking props`;
 const code = `
 <>
-  <Description text={intro} variant="large"></Description>
   <Container variant="large">
     <ButtonComp variant="small">Small</ButtonComp>
     <ButtonComp>(Default)</ButtonComp>
